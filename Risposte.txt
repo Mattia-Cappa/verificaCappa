@@ -14,4 +14,7 @@
  ----> git reset --hard [hashcode della commit alla quale si vuole tornare] 
 
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT
- ----> git è utilissimo per lavorare in gruppo avendo costantemente sotto  controllo il lavoro svolto, in aggiunta tramite git si può ramificare il 	 proprio lavoro e renderlo così più ordinato e facile da riprendere.
+ ----> git è utilissimo per lavorare in gruppo avendo costantemente sotto controllo il lavoro svolto, in aggiunta tramite git si può ramificare il proprio lavoro e renderlo così più ordinato e facile da riprendere.
+
+7) Spiega la differenza tra git clone e git pull.
+ Sostanzialmente tramite git pull "tiri" giù i vari file della repository online in quella locale in modo da essere aggiornato alla versione più recente del progetto, invece, con git clone, stai clonando letteralmente la repository online, ovvero la cartella online e quella locale sono la stessa cosa, infatti con git clone viene eseguito in automatico il comando per collegare la cartella locale alla repository online. 
