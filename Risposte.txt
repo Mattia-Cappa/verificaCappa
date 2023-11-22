@@ -24,3 +24,15 @@
 
 9) Spiega di cosa si occupa l’ingegneria del software.
  L'ingegneria del software è una branca dell'informatica che si occupa di gestire la realizzazione di software applicativi.
+
+10) Spiega cosa è il ciclo di vita del software e le fasi in cui si suddivide.
+ Il ciclo di vita di un software sono le varie fasi nel quale si divide la creazione di un software applicativo, e sono:
+-analisi (capire se il progetto è fattibile sia economicamente sia teoricamente e analizzare i componenti e la varie attrezature che servirebbero)
+
+-progettazione(pianificare chi farà cosa e descrivere il progetto nei minimi dettagli)
+
+-realizzazione(insieme delle fasi che andranno a realizzare il software applicativo vero e proprio)
+
+-avvio in produzione(il programma arriva effettivamente agli utenti)
+
+-manutenzione(può essere di 3 tipi, manutenzione evolutiva atta a modificare il software per l'evoluzione delle tecnologie, manutenzione adattiva nel caso di modifiche di leggi per esempio, manutenzione correttiva per correggere qualche bug sfuggito in fase di realizzazione)
