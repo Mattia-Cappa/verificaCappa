@@ -21,3 +21,6 @@
 
 8) Descrivi cosa sono i rami di sviluppo in GIT (branches). Spiega inoltre come si creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi visti in classe.
  I branches in git sono uno strumento attraverso il quale si può ramificare il proprio progetto, aggiungendo dei rami di sviluppo (i rami possono anche essere assegnati a persone diverse), per crearne uno basterà eseguire il comando  git checkout -b [nomeBranch], per spostarsi invece da un ramo all'altro si usa  git checkout [nome del branch nel quale ci si vuole spostare], per invece unire al main tutti i cambiamenti fatti in un ipotetico branch "DEV" basterà essere nel main ed utilizzare il comando  git merge [DEV], per visualizzare il branch nel quale si è bisogna utilizzare  git status.
+
+9) Spiega di cosa si occupa l’ingegneria del software.
+ L'ingegneria del software è una branca dell'informatica che si occupa di gestire la realizzazione di software applicativi.
